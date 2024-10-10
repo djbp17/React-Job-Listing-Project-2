@@ -1,0 +1,11 @@
+React shorcut codes and other important stuff
+
+rafce
+rafc
+rfc
+
+props: can be use not only to change the content but also change the styling
+{Link} is also works as {NavLink} but NavLink has an additional active link
+useEffect: Fetching data when the components renders
+--useEffect also takes in things: it takes a function and dependency array. Example below:
+useEffect(() => {}, []);

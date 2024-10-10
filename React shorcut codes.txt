@@ -1,7 +1,0 @@
-React shorcut codes and other important stuff
-
-rafce
-rafc
-rfc
-
-props: can be use not only to change the content but also change the styling
