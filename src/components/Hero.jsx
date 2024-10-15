@@ -3,7 +3,7 @@ import React from 'react';
 // const Hero = (props) =>
 // Or we can destructure instead of using props. The same output and it still works
 const Hero = ({
-  title = 'Become a React Dev',
+  title = 'Become a React Dev!',
   subtitle = 'Find the React job that fits your skill set',
 }) => {
   return (
