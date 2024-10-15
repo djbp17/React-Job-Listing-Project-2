@@ -9,3 +9,12 @@ props: can be use not only to change the content but also change the styling
 useEffect: Fetching data when the components renders
 --useEffect also takes in things: it takes a function and dependency array. Example below:
 useEffect(() => {}, []);
+
+async and await = are used for fetching data from the server. This ensure that the request is successful then it will return a data but if it fails to fetch it will return an error or failed message
+
+try catch finally syntax = in the finally part, whatever you put in the finally part it will run either it fails or not
+
+A parameter is a variable in a function definition. It is a placeholder and hence does not have a concrete value. An argument is a value passed during function invocation.
+
+vscode extension
+multiple cursor case preserver by cardinal90 
